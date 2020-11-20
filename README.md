@@ -1,2 +1,2 @@
 # dotnet-webpack
-dotnet core with nodejs and webpack
+dotnet core with nodejs
